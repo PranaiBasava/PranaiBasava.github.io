@@ -1,34 +1,33 @@
------------------------
-# README
------------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+# Personal Portfolio
 
+This is my personal portfolio website built to showcase my professional background, technical skills, work experience, and academic projects. It serves as an interactive resume and highlights key areas of my expertise in data analytics, data engineering, and business intelligence.
 
-Template Info:
------------------------
-Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
-Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
+## ✨ Highlights
 
+- Clean and modern layout
+- Timeline-based work experience section
+- Mobile-friendly and responsive design
+- Organized sections for education, projects, and tools
+- Easy-to-read format for recruiters and hiring managers
 
-Changelog:
------------------------
-Version 1.0 14-05-2018
-- initial release 
+## 📌 Sections Included
 
+- **About Me** – Brief introduction and summary
+- **Experience** – Professional roles in reverse chronological order
+- **Skills & Tools** – Technologies I’ve worked with
+- **Academic Projects** – Hands-on machine learning and analytics work
+- **Contact** – How to get in touch
 
-Credits:
------------------------
-- Twitter Bootstrap http://getbootstrap.com
-- jQuery http://jquery.org
-- Modernizr https://modernizr.com/
-- Sticky.js http://stickyjs.com/
-- JQuery easing https://github.com/gdsmith/jquery.easing
-- Bootsnav http://bootsnav.danurstrap.com/
-- Pexels https://www.pexels.com/
-- Unsplash https://unsplash.com/
+## 🛠️ Technologies Used
 
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
+- Basic JavaScript/jQuery
+
+## 📁 How to View
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/PranaiBasava/PranaiBasava.github.io.git
