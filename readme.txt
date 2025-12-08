@@ -31,3 +31,4 @@ This is my personal portfolio website built to showcase my professional backgrou
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/PranaiBasava/PranaiBasava.github.io.git
+
